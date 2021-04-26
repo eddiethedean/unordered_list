@@ -31,7 +31,7 @@ class UnorderedList:
 
        >>> ul.extend([2, 5, 6, 6])
        >>> ul
-       UnorderedList([1, 1, 2, 2, 3, 3, 5, 6, 6]
+       UnorderedList([1, 1, 2, 2, 3, 3, 5, 6, 6])
 
     """
     def __init__(self, vals) -> None:
